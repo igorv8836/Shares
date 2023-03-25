@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shares</string>
+    <string name="error">Error when loading data!</string>
+</resources>
